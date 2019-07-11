@@ -1,5 +1,5 @@
 {
-  "name": "recursion_project_solution",
+  "name": "selection_sort_project_solution",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
-    "chai-spies": "^1.0.0",
-    "mocha": "^6.0.2"
+    "mocha": "^5.2.0"
   }
 }
