@@ -1,11 +1,3 @@
-// function inOrderArray(root) {
-//   let res = [];
-//   if (!root) return res;
-//   inOrderArray(root.left);
-//   res.push(root.val);
-//   inOrderArray(root.right);
-// }
-
 function inOrderArray(root, arr = []) {
   if (!root) return [];
   inOrderArray(root.left, arr);
